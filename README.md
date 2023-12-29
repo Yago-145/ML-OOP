@@ -43,7 +43,9 @@ La estructura del proyecto se organiza de la siguiente manera:
 |-- data/                  # Carpeta que contiene los datos necesarios para el proyecto
 |-- modelos/               # Carpeta con todos los modelos entrenados
 |-- preprocess/            # Carpeta con los modelos entrenados de estandarización y reducción de dimensionalidad
-|-- ML_OOP.html
+|-- ML_OOP.html            # Versión HTML del notebook
+|-- ML_OOP.ipynb           # Notebook donde está todo explicado paso a paso
+|-- ML_OOP.pdf             # Versión PDF del notebook
 |-- README.md              # Este archivo
 |-- requirements.txt       # Lista de dependencias del proyecto
 ```

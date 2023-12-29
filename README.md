@@ -40,9 +40,10 @@ La estructura del proyecto se organiza de la siguiente manera:
 
 ```plaintext
 /
-|-- data/                  # Carpeta que contiene el dataset de Kaggle
-|-- src/
-|   |-- pipeline.py        # Implementación de la clase Pipeline
+|-- data/                  # Carpeta que contiene los datos necesarios para el proyecto
+|-- modelos/               # Carpeta con todos los modelos entrenados
+|-- preprocess/            # Carpeta con los modelos entrenados de estandarización y reducción de dimensionalidad
+|-- ML_OOP.html
 |-- README.md              # Este archivo
 |-- requirements.txt       # Lista de dependencias del proyecto
 ```

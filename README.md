@@ -47,6 +47,7 @@ La estructura del proyecto se organiza de la siguiente manera:
 |-- ML_OOP.ipynb           # Notebook donde está todo explicado paso a paso
 |-- ML_OOP.pdf             # Versión PDF del notebook
 |-- README.md              # Este archivo
+|-- idal-logo.png          # Logo empleado en el notebook
 |-- requirements.txt       # Lista de dependencias del proyecto
 ```
 
